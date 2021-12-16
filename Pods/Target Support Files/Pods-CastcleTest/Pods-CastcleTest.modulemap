@@ -1,0 +1,6 @@
+framework module Pods_CastcleTest {
+  umbrella header "Pods-CastcleTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

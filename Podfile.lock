@@ -1,0 +1,46 @@
+PODS:
+  - ActivityIndicatorManager (2.1.0)
+  - Alamofire (5.4.3)
+  - DropDown (2.3.13)
+  - OTPFieldView (1.0.1)
+  - RxCocoa (6.2.0):
+    - RxRelay (= 6.2.0)
+    - RxSwift (= 6.2.0)
+  - RxRelay (6.2.0):
+    - RxSwift (= 6.2.0)
+  - RxSwift (6.2.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - ActivityIndicatorManager
+  - Alamofire
+  - DropDown
+  - OTPFieldView
+  - RxCocoa
+  - RxSwift
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - ActivityIndicatorManager
+    - Alamofire
+    - DropDown
+    - OTPFieldView
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  ActivityIndicatorManager: 31087524844ff5a00ee95a905931b7420fdf3cc1
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  OTPFieldView: 700a752fe62c41d1c4914c78aa500fb30d97c255
+  RxCocoa: 4baf94bb35f2c0ab31bc0cb9f1900155f646ba42
+  RxRelay: e72dbfd157807478401ef1982e1c61c945c94b2f
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 86c6953c7d636011bd2272d1086aa3b26747e2d6
+
+COCOAPODS: 1.11.2
